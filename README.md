@@ -1,6 +1,6 @@
-# PanelSphere - Frontend Application
+# Indirex Household Recruitment Panel - Frontend Application
 
-**PanelSphere** is an enterprise Household Panel Recruitment & Management System frontend built using Next.js App Router, TypeScript, and Tailwind CSS.
+**Indirex Household Recruitment Panel** is an enterprise Household Panel Recruitment & Management System frontend built using Next.js App Router, TypeScript, and Tailwind CSS.
 
 ## Technology Stack
 
